@@ -1,0 +1,22 @@
+{
+   "name":"ysuryawanshi/readmyfile",
+   "description":"This package will help us to read pdf.txt,html",
+   "type":"library",
+   "license":"entrata",
+   "authors":[
+      {
+         "name":"ysuryawanshi",
+         "email":"ysuryawanshi@xento.com"
+      }
+   ],
+     "minimum-stability": "dev",
+    "require": {}
+   "autoload":{
+      "psr-4":{
+         "FileReader\\":"Package/"
+      }
+   }
+}
+
+
+
